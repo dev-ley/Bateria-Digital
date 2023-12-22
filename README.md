@@ -3,6 +3,7 @@
 ## Visão Geral
 
 Este projeto é uma bateria digital simples, implementada com JavaScript para manipulação do DOM e gerenciamento de eventos.
+https://dev-ley.github.io/Bateria-Digital/
 
 ## Funcionalidades
 
